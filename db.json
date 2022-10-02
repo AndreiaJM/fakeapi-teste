@@ -1,1 +1,15 @@
-texto sem formato json
+{
+  "cursos": [
+    {"id":1,"nome":"Matematica"},
+    {"id":2,"nome":"Portugues"},
+    {"id":3,"nome":"Ingles"}
+  ],
+  "alunos":[
+    {"id":0,"aluninho":"Andreia"},
+    {"id":2,"aluninho":"Eliel"}
+  ],
+  "empresa":[
+    {"id":1,"nome":"Atento"},
+    {"id":2,"nome":"Pluris"}
+  ]
+}
